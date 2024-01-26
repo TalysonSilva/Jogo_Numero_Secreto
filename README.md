@@ -13,4 +13,4 @@ Para o jogo funcionar utilizar o seguinte link https://jogo-omega-lac.vercel.app
 - Após o jogador iniciar um novo jogo o número secreto não será repetido, só vai se repetir quando os 10 números foram sorteados.
 
 
-<Bom Jogo todos>
+# Bom Jogo todos!!
